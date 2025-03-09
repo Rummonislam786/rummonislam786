@@ -47,8 +47,5 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/nur-a-kamrul-islam-a53284271" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a target="_blank" href="https://facebook.com/rummon.islam1" style="display: inline-block;"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" /></a>
   <a target="_blank" href="mailto:islam.rummon786@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="linkedin" /></a></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rummonislam786&show_icons=true&locale=en" alt="rummonislam786" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rummonislam786&" alt="rummonislam786" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rummonislam786&show_icons=true&locale=en&layout=compact" alt="rummonislam786" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rummonislam786" alt="rummonislam786" /></a></p>
+
