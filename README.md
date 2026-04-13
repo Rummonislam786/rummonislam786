@@ -47,7 +47,7 @@
 <p><a target="_blank" href="https://www.linkedin.com/in/nur-a-kamrul-islam-a53284271" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a target="_blank" href="https://facebook.com/rummon.islam1" style="display: inline-block;"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" /></a>
   <a target="_blank" href="mailto:islam.rummon786@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="linkedin" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rummonislam786&show_icons=true&locale=en&layout=compact" alt="rummonislam786" /></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
