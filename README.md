@@ -49,10 +49,5 @@
   <a target="_blank" href="https://facebook.com/rummon.islam1" style="display: inline-block;"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="facebook" /></a>
   <a target="_blank" href="mailto:islam.rummon786@gmail.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="linkedin" /></a></p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 ![snake gif](https://github.com/Rummonislam786/rummonislam786/blob/output/github-snake-dark.svg)
